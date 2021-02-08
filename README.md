@@ -15,6 +15,7 @@ I like to play video games on weekends...
   🌎 Palhoça - SC ✈️ Brazil
 
 
+<h3>A little more of me</h3>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/programacaogabriel/)](https://github.com/programacaogabriel/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmartinsdasilva/
