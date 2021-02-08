@@ -4,6 +4,10 @@
 I really like technology and a way that they connect and go together. 
 Despite having a love for Java I always love to learn new technologies, always trying not to loot everything I see. I am dedicating my time to reading books and studying whenever I can so trying to keep myself updated.
 
+What made me enter this world was the creation of a gift, a website for my wife.
+This motivates me and introduces the Front End and now I also study BackEnd.
+Knowing a little of each, now everything is clearer and so I want to become a FullStack
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/programacaogabriel/)](https://github.com/programacaogabriel/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmartinsdasilva/
