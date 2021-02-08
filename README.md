@@ -20,6 +20,7 @@ I like to play video games on weekends...
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/programacaogabriel/)](https://github.com/programacaogabriel/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmartinsdasilva/
 )](https://www.linkedin.com/in/gabrielmartinsdasilva/)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 
@@ -29,6 +30,14 @@ I like to play video games on weekends...
 -  🤝   -  I'm looking to collaborate on projects, works and everything that makes me evolve in the face of this magical world of programming.
 -  🤔   -  I'm looking for help with database insertion in Java.
 -  💬   -  Ask me about anything, I'll be happy to answer. If you don't know, let's go back together.
+
+
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=programacaogabriel)
 
