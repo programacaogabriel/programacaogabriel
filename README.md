@@ -1,5 +1,8 @@
-### Hi, I'm Gabriel!👋 
+<h2>Hi, I'm Gabriel!👋<\h2> 
 
+
+I really like technology and a way that they connect and go together. 
+Despite having a love for Java I always love to learn new technologies, always trying not to loot everything I see. I am dedicating my time to reading books and studying whenever I can so trying to keep myself updated.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/programacaogabriel/)](https://github.com/programacaogabriel/)
