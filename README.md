@@ -30,4 +30,5 @@ I like to play video games on weekends...
 -  🤔   -  I'm looking for help with database insertion in Java.
 -  💬   -  Ask me about anything, I'll be happy to answer. If you don't know, let's go back together.
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=programacaogabriel)
 
