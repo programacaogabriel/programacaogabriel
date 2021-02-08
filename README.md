@@ -9,6 +9,13 @@ This motivates me and introduces the Front End and now I also study BackEnd.
 Knowing a little of each, now everything is clearer and so I want to become a FullStack
 
 
+I like to play video games on weekends...
+
+<h3> My location <h3/>
+  🌎 Palhoça - SC ✈️ Brazil
+
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/programacaogabriel/)](https://github.com/programacaogabriel/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmartinsdasilva/
 )](https://www.linkedin.com/in/gabrielmartinsdasilva/)
