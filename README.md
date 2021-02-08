@@ -11,7 +11,7 @@ Knowing a little of each, now everything is clearer and so I want to become a Fu
 
 I like to play video games on weekends...
 
-<h3> My location <h3/>
+<h3> My location </h3>
   🌎 Palhoça - SC ✈️ Brazil
 
 
