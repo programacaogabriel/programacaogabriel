@@ -1,4 +1,4 @@
-<h2>Hi, I'm Gabriel!👋<\h2> 
+<h2>Hi, I'm Gabriel!👋</h2> 
 
 
 I really like technology and a way that they connect and go together. 
