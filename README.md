@@ -9,7 +9,8 @@ This motivates me and introduces the Front End and now I also study BackEnd.
 Knowing a little of each, now everything is clearer and so I want to become a FullStack
 
 
-I like to play video games on weekends...
+
+🎮 To relax we play a video game over the weekend.🎮
 
 <h3> My location </h3>
   🌎 Palhoça - SC ✈️ Brazil
