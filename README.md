@@ -10,7 +10,7 @@ Knowing a little of each, now everything is clearer and so I want to become a Fu
 
 
 
-🎮 To relax we play a video game over the weekend.🎮
+🎮 To relax, play a video game over the weekend.🎮
 
 <h3> My location </h3>
   🌎 Palhoça - SC ✈️ Brazil
