@@ -25,7 +25,7 @@ Knowing a little of each, now everything is clearer and so I want to become a Fu
 
 
 
--  🧑‍💻 - I am currently working at UNISUL
+-  🧑‍💻 - I am currently working at WIPRO
 -  📚   -  Currently, I am learning Java and database, but I have slight knowledge in html, css and javascript.
 -  👨‍🎓 - I'm doing the Faculty of Information Technology Management.
 -  🤝   -  I'm looking to collaborate on projects, works and everything that makes me evolve in the face of this magical world of programming.
