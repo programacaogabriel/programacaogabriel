@@ -32,16 +32,5 @@ Knowing a little of each, now everything is clearer and so I want to become a Fu
 -  🤔   -  I'm looking for help with SpringBoot
 -  💬   -  Ask me about anything, I'll be happy to answer. If you don't know, let's go back together.
 
-<tr>
-<td> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-<td> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
-<td> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-<td> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-<td> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-<td> <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=Docker&logoColor=white"/></td>
-<td> <img src="https://img.shields.io/badge/kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white"/></td>
-  
- </tr>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=programacaogabriel)
+)
 
