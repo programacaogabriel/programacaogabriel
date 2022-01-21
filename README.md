@@ -32,9 +32,6 @@ Knowing a little of each, now everything is clearer and so I want to become a Fu
 -  🤔   -  I'm looking for help with SpringBoot
 -  💬   -  Ask me about anything, I'll be happy to answer. If you don't know, let's go back together.
 
-
-
-<table border="1">
 <tr>
 <td> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
 <td> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
