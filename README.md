@@ -1,4 +1,4 @@
-<h1> Seja bem vido ao meu github! 👋</h1>
+<h1> Seja bem vindo ao meu github! 👋</h1>
 
 Sou Gabriel Martins da Silva 
 
