@@ -1,4 +1,4 @@
-<h1> Seja bem vindo ao meu github! 👋</h1>
+# Seja bem vindo ao meu github! 👋
 
 Sou Gabriel Martins da Silva 
 
@@ -12,7 +12,7 @@ estou aprendendo tecnologias como bootstrap, javascript e robot.
 
 ---
 
-<h3> Se conecte comigo!<h3>
+### Se conecte comigo!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
