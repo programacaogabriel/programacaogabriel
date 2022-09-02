@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu github! 👋
 
-### Sou Gabriel Martins da Silva 💻🎮
+### Sou Gabriel Martins da Silva :computer: :video_game: :coffee: :metal:
 
 Um apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em Quality Assurence trabalhando na [Wipro](https://www.wipro.com/ "Wipro"), atualmente estou focando nas 
 tecnologias voltadas ao Front-End, juntamente com as atuais que fazem a sua verificação em QA.
