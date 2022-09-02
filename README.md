@@ -1,16 +1,16 @@
 # Seja bem vindo ao meu github! 👋
 
-Sou Gabriel Martins da Silva 💻🎮
+### Sou Gabriel Martins da Silva 💻🎮
 
-Um apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em Quality Assurence trabalhando na Wipro, atualmente estou focando nas 
+Um apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em Quality Assurence trabalhando na [Wipro](https://www.wipro.com/ "Wipro"), atualmente estou focando nas 
 tecnologias voltadas ao Front-End, juntamente com as atuais que fazem a sua verificação em QA.
 
-Estudo Gestão da Tecnologia e Educação juntamente com Analise e Desenvolvimento de Sistemas, hoje
+Estudo Gestão da Tecnologia da Educação juntamente com Analise e Desenvolvimento de Sistemas, hoje
 estou aprendendo tecnologias como bootstrap, javascript e robot.
 
 ---
 
-#### Linguagens que conheço
+### Linguagens que conheço
 
 
 
@@ -26,3 +26,6 @@ estou aprendendo tecnologias como bootstrap, javascript e robot.
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=48991869761&text=sua%20mensagem "![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)")
+
+---
+
