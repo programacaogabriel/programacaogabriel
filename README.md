@@ -8,18 +8,27 @@ tecnologias voltadas ao Front-End, juntamente com as atuais que fazem a sua veri
 Estudo Gestão da Tecnologia da Educação juntamente com Analise e Desenvolvimento de Sistemas, hoje
 estou aprendendo tecnologias como bootstrap, javascript e robot.
 
----
+------------
 
-### Linguagens que conheço
-
-
-
+### Linguagens que tenho o conhecimento
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   - -  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - - ![GIT](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white) - - ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - - ![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=black) - - ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) - - ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![JUNIT](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) - - ![SELENIUM](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) - - ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) - - ![CYPRESS](https://img.shields.io/badge/Cypress-1702C?style=for-the-badge&logo=cypress&logoColor=white) - - ![JIRA](https://img.shields.io/badge/Jira-FF6900?style=for-the-badge&logo=Jira&logoColor=white) - - ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
----
+------------
+
+### O que você encontrará em meu Github?
+
+- Projetos Front - end
+- Projetos Back - end
+- Projetos QA
+- Meus trabalhos referente a cursos realizados
+- Cursos online documentados 
+
+------------
+
+
 ### Se conecte comigo!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmartinsdasilva "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)")
@@ -27,5 +36,8 @@ estou aprendendo tecnologias como bootstrap, javascript e robot.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=48991869761&text=sua%20mensagem "![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)")
 
----
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meu@email.com"programacaogabriel@gmail.com "[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)")
+
+
+------------
 
