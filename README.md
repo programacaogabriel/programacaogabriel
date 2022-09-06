@@ -20,11 +20,11 @@ estou aprendendo tecnologias como bootstrap, javascript e robot.
 
 ### O que você encontrará em meu Github?
 
-- Projetos Front - end
-- Projetos Back - end
-- Projetos QA
-- Meus trabalhos referente a cursos realizados
-- Cursos online documentados 
+- Projetos Front - end 🚀
+- Projetos Back - end 🛰️
+- Projetos QA 💡
+- Meus trabalhos referente a cursos realizados ☕
+- Cursos online documentados 🌈
 
 ------------
 
